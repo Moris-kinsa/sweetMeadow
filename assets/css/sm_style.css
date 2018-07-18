@@ -12,4 +12,33 @@
     max-width: 255px;
 }div#navbarText {
     margin-top: 62px;
+}.sw_container {
+    max-width: 1440px;
+    margin: auto;
+}.center {
+    text-align: center;
+}.info-banner1 {
+    padding: 50px 111px;
+}p.paragaraph {
+    font-size: 22px;
+    line-height: 1.5;
+    text-align: center;
+}h1.center.sm_heading {
+    padding-bottom: 27px;
+    font-size: 59px;
+    font-weight: normal;
+    word-spacing: 12px;
+}.sm-productCrousel {
+    background: rgb(248,248,248);
+    padding: 52px 0 0 0;
+}.sm_crousel {
+    background: white;
+}footer {
+    background: rgb(248,248,248);
+}h1.center.sm_sub_heading {
+    font-size: 35px;
+    padding: 20px 0;
+}.wd-50per {
+    width: 50%;
+    margin: auto;
 }
